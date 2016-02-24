@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedApp", "MultiThreadedApp\MultiThreadedApp.csproj", "{BBD2064C-5A52-490B-AC26-D895D2F2465D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetProperties", "GetProperties\GetProperties.csproj", "{6322605D-42EE-4B19-A35D-013BE5771B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD2064C-5A52-490B-AC26-D895D2F2465D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD2064C-5A52-490B-AC26-D895D2F2465D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD2064C-5A52-490B-AC26-D895D2F2465D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD2064C-5A52-490B-AC26-D895D2F2465D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6322605D-42EE-4B19-A35D-013BE5771B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6322605D-42EE-4B19-A35D-013BE5771B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6322605D-42EE-4B19-A35D-013BE5771B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6322605D-42EE-4B19-A35D-013BE5771B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
